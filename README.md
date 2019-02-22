@@ -10,11 +10,13 @@ That order is as follows:
 4. count_frequency.py
 5. combine_me_irl.py
 
-(6-9 may be run before 1-4)
+(6-8 may be run before 1-4)
 
 6. get_emoji_html.py
 7. emoji_png_from_html.py
 8. get_emoji_paths.py
+
+Then finally.
 
 9. graphing.py
 
