@@ -22,6 +22,9 @@ Then finally.
 
 Rename data files as needed inbetween each step, several steps may need to be repeated for different data files.
 
+I modified the graphing.py file to create a single frame of the most common middle character used.
+
+
 Emojis are obtained from http://www.unicode.org/emoji/charts/full-emoji-list.html
 
 Final Note: Don't work with emojis and pictures, kids. It's not worth it.
